@@ -1,0 +1,9 @@
+export { default as Facebook } from './Facebook';
+export { default as Twitter } from './Twitter';
+export { default as Instagram } from './Instagram';
+export { default as Linkedin } from './Linkedin';
+export { default as Checkbox } from './Checkbox';
+export { default as ArrowRight } from './ArrowRight';
+export { default as Step1 } from './Step1';
+export { default as Step2 } from './Step2';
+export { default as Step3 } from './Step3';
